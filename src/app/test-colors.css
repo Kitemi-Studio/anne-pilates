@@ -21,3 +21,13 @@
   --color-slate-soft: #F3C7B5;
   --color-gold: #C85C3C;
 }
+
+/* Temporary deployment test: visibly replace the hero title. */
+main > section:first-child h1 > span:nth-child(2) {
+  font-size: 0 !important;
+}
+
+main > section:first-child h1 > span:nth-child(2)::after {
+  content: "ZIZI";
+  font-size: clamp(2.25rem, 8vw, 8rem);
+}
