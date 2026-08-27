@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./test-colors.css";
 import Header from "@/components/Header";
 
 export const metadata: Metadata = {
