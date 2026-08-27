@@ -1,0 +1,268 @@
+@font-face {
+  font-family: 'acumin-pro-wide';
+  src: url('https://use.typekit.net/af/8f5b77/00000000000000007735d429/31/l?subset_id=2&fvd=n3&v=3') format('woff2'),
+       url('https://use.typekit.net/af/8f5b77/00000000000000007735d429/31/d?subset_id=2&fvd=n3&v=3') format('woff'),
+       url('https://use.typekit.net/af/8f5b77/00000000000000007735d429/31/a?subset_id=2&fvd=n3&v=3') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'acumin-pro-wide';
+  src: url('https://use.typekit.net/af/717208/00000000000000007735d452/31/l?subset_id=2&fvd=n4&v=3') format('woff2'),
+       url('https://use.typekit.net/af/717208/00000000000000007735d452/31/d?subset_id=2&fvd=n4&v=3') format('woff'),
+       url('https://use.typekit.net/af/717208/00000000000000007735d452/31/a?subset_id=2&fvd=n4&v=3') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'acumin-pro-wide';
+  src: url('https://use.typekit.net/af/2cfac8/00000000000000007735d419/31/l?subset_id=2&fvd=n7&v=3') format('woff2'),
+       url('https://use.typekit.net/af/2cfac8/00000000000000007735d419/31/d?subset_id=2&fvd=n7&v=3') format('woff'),
+       url('https://use.typekit.net/af/2cfac8/00000000000000007735d419/31/a?subset_id=2&fvd=n7&v=3') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'acumin-pro-wide';
+  src: url('https://use.typekit.net/af/ed6b4b/00000000000000007735d433/31/l?subset_id=2&fvd=i3&v=3') format('woff2'),
+       url('https://use.typekit.net/af/ed6b4b/00000000000000007735d433/31/d?subset_id=2&fvd=i3&v=3') format('woff'),
+       url('https://use.typekit.net/af/ed6b4b/00000000000000007735d433/31/a?subset_id=2&fvd=i3&v=3') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'acumin-pro-wide';
+  src: url('https://use.typekit.net/af/217f77/00000000000000007735d453/31/l?subset_id=2&fvd=i4&v=3') format('woff2'),
+       url('https://use.typekit.net/af/217f77/00000000000000007735d453/31/d?subset_id=2&fvd=i4&v=3') format('woff'),
+       url('https://use.typekit.net/af/217f77/00000000000000007735d453/31/a?subset_id=2&fvd=i4&v=3') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'acumin-pro-wide';
+  src: url('https://use.typekit.net/af/0615a9/00000000000000007735d41e/31/l?subset_id=2&fvd=i7&v=3') format('woff2'),
+       url('https://use.typekit.net/af/0615a9/00000000000000007735d41e/31/d?subset_id=2&fvd=i7&v=3') format('woff'),
+       url('https://use.typekit.net/af/0615a9/00000000000000007735d41e/31/a?subset_id=2&fvd=i7&v=3') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ivymode";
+  src: url("https://use.typekit.net/af/3bfc0f/00000000000000007735ce75/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff2"),
+       url("https://use.typekit.net/af/3bfc0f/00000000000000007735ce75/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff"),
+       url("https://use.typekit.net/af/3bfc0f/00000000000000007735ce75/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("opentype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 200;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "ivymode";
+  src: url("https://use.typekit.net/af/aaccb8/00000000000000007735ce73/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i2&v=3") format("woff2"),
+       url("https://use.typekit.net/af/aaccb8/00000000000000007735ce73/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i2&v=3") format("woff"),
+       url("https://use.typekit.net/af/aaccb8/00000000000000007735ce73/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i2&v=3") format("opentype");
+  font-display: swap;
+  font-style: italic;
+  font-weight: 200;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "ivymode";
+  src: url("https://use.typekit.net/af/fdec3a/00000000000000007735ce80/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"),
+       url("https://use.typekit.net/af/fdec3a/00000000000000007735ce80/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"),
+       url("https://use.typekit.net/af/fdec3a/00000000000000007735ce80/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
+  font-display: swap;
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "ivymode";
+  src: url("https://use.typekit.net/af/408fba/00000000000000007735ce78/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),
+       url("https://use.typekit.net/af/408fba/00000000000000007735ce78/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),
+       url("https://use.typekit.net/af/408fba/00000000000000007735ce78/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "ivymode";
+  src: url("https://use.typekit.net/af/2b42d0/00000000000000007735ce7b/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),
+       url("https://use.typekit.net/af/2b42d0/00000000000000007735ce7b/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),
+       url("https://use.typekit.net/af/2b42d0/00000000000000007735ce7b/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "ivymode";
+  src: url("https://use.typekit.net/af/8c4de6/00000000000000007735ce91/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),
+       url("https://use.typekit.net/af/8c4de6/00000000000000007735ce91/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),
+       url("https://use.typekit.net/af/8c4de6/00000000000000007735ce91/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "ivymode";
+  src: url("https://use.typekit.net/af/a2d698/00000000000000007735ce82/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff2"),
+       url("https://use.typekit.net/af/a2d698/00000000000000007735ce82/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff"),
+       url("https://use.typekit.net/af/a2d698/00000000000000007735ce82/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("opentype");
+  font-display: swap;
+  font-style: italic;
+  font-weight: 600;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "ivymode";
+  src: url("https://use.typekit.net/af/2868ab/00000000000000007735ce88/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"),
+       url("https://use.typekit.net/af/2868ab/00000000000000007735ce88/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"),
+       url("https://use.typekit.net/af/2868ab/00000000000000007735ce88/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "ivymode";
+  src: url("https://use.typekit.net/af/a3f660/00000000000000007735ce92/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),
+       url("https://use.typekit.net/af/a3f660/00000000000000007735ce92/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),
+       url("https://use.typekit.net/af/a3f660/00000000000000007735ce92/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "ivymode";
+  src: url("https://use.typekit.net/af/9e78fb/00000000000000007735ce99/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),
+       url("https://use.typekit.net/af/9e78fb/00000000000000007735ce99/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),
+       url("https://use.typekit.net/af/9e78fb/00000000000000007735ce99/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+}
+
+@import "tailwindcss";
+
+:root {
+  --cream: #F8FAFC;        /* Soothing clean wellness light */
+  --off-white: #EEF2F6;    /* Subtle soft slate background */
+  --charcoal: #1E252D;     /* Deep slate charcoal text */
+  --obsidian: #12171E;     /* Deep rich midnight slate */
+  --slate: #4E5F70;        /* Main Anne Pilates Steel Blue */
+  --slate-dark: #374654;   /* Deep slate for button hover & emphasis */
+  --slate-light: #8EA3B8;  /* Luminous slate for dark backgrounds */
+  --slate-soft: #D5E0EA;   /* Soft slate tint for badges & borders */
+  --gold: #4E5F70;         /* Primary brand accent */
+  --white: #ffffff;
+  --black: #000000;
+}
+
+@theme {
+  --color-cream: #F8FAFC;
+  --color-off-white: #EEF2F6;
+  --color-charcoal: #1E252D;
+  --color-obsidian: #12171E;
+  --color-slate: #4E5F70;
+  --color-slate-dark: #374654;
+  --color-slate-light: #8EA3B8;
+  --color-slate-soft: #D5E0EA;
+  --color-gold: #4E5F70;
+  
+  --font-sans: "acumin-pro-wide", var(--font-sans), sans-serif;
+  --font-serif: "ivymode", var(--font-serif), serif;
+}
+
+body {
+  background-color: var(--cream);
+  color: var(--charcoal);
+  font-family: var(--font-sans);
+  font-weight: 300;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom premium film grain overlay */
+.noise-overlay {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  mix-blend-mode: multiply;
+}
+
+/* CSS-only infinite marquee animation */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 30s linear infinite;
+}
+
+/* Custom cursor and hover interaction helpers */
+.hover-underline-animation {
+  position: relative;
+}
+
+.hover-underline-animation::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 1px;
+  bottom: -2px;
+  left: 0;
+  background-color: currentColor;
+  transform-origin: bottom right;
+  transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.hover-underline-animation:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+/* Clean, modern scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--cream);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(78, 95, 112, 0.3);
+  border-radius: 3px;
+  transition: background 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--slate);
+}
