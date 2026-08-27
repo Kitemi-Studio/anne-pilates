@@ -1,0 +1,23 @@
+:root {
+  --cream: #FFF4E8;
+  --off-white: #F6DDC8;
+  --charcoal: #3A1F1A;
+  --obsidian: #24110E;
+  --slate: #C85C3C;
+  --slate-dark: #963F2A;
+  --slate-light: #E89A7F;
+  --slate-soft: #F3C7B5;
+  --gold: #C85C3C;
+}
+
+@theme {
+  --color-cream: #FFF4E8;
+  --color-off-white: #F6DDC8;
+  --color-charcoal: #3A1F1A;
+  --color-obsidian: #24110E;
+  --color-slate: #C85C3C;
+  --color-slate-dark: #963F2A;
+  --color-slate-light: #E89A7F;
+  --color-slate-soft: #F3C7B5;
+  --color-gold: #C85C3C;
+}
